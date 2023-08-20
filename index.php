@@ -66,7 +66,7 @@
 								<span class="subheading">Hello!</span>
 								<h1 class="mb-4 mt-3">I'm <span>Dinkar Kumar</span></h1>
 								<h2 class="mb-4">A React js Developer</h2>
-								<p><a href="#" class="btn btn-primary py-3 px-4">Hire me</a> <a href="#"
+								<p><a href="mailto: [dinkar202@outlook.com]?subject= &body= " class="btn btn-primary py-3 px-4">Hire me</a> <a href="#"
 										class="btn btn-white btn-outline-white py-3 px-4">My works</a></p>
 							</div>
 						</div>
@@ -88,7 +88,7 @@
 							<div class="text">
 								<span class="subheading">Hello!</span>
 								<h1 class="mb-4 mt-3">I'm a <span>Frontend Developer</span> based in Intrn</h1>
-								<p><a href="#" class="btn btn-primary py-3 px-4">Hire me</a> <a href="#"
+								<p><a href="mailto: [dinkar202@outlook.com]?subject= &body= " class="btn btn-primary py-3 px-4">Hire me</a> <a href="#"
 										class="btn btn-white btn-outline-white py-3 px-4">My works</a></p>
 							</div>
 						</div>
@@ -629,7 +629,7 @@
 				<div class="col-md-7 ftco-animate text-center">
 					<h2>I'm <span>Available</span> for freelancing</h2>
 					<p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
-					<p class="mb-0"><a href="#" class="btn btn-primary py-3 px-5">Hire me</a></p>
+					<p class="mb-0"><a href="mailto: [dinkar202@outlook.com]?subject= &body= " class="btn btn-primary py-3 px-5">Hire me</a></p>
 				</div>
 			</div>
 		</div>
