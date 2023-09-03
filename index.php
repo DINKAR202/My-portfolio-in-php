@@ -64,7 +64,7 @@
 							data-scrollax=" properties: { translateY: '70%' }">
 							<div class="text">
 								<span class="subheading">Hello!</span>
-								<h1 class="mb-4 mt-3">I'm <span>Dinkar Kumar</span></h1>
+								<h1 class="mb-4 mt-3">I'm <span>Dinkar Kumar Yadav</span></h1>
 								<h2 class="mb-4">A React js Developer</h2>
 								<p><a href="mailto: [dinkar202@outlook.com]?subject= &body= " class="btn btn-primary py-3 px-4">Hire me</a> <a href="#"
 										class="btn btn-white btn-outline-white py-3 px-4">My works</a></p>
